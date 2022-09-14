@@ -1,0 +1,14 @@
+{
+  "_output_dir": "/home/behzad/workspace/GitHub/eLearningHub/leetcode-binary-tree",
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "Behzad Samadi",
+  "copyright_year": "2022",
+  "development_status": "Development Status :: 3 - Alpha",
+  "email": "behzad@mechatronics3d.com",
+  "friendly_name": "Leetcode Binary Tree",
+  "github_user": "bsamadi",
+  "license": "MIT",
+  "package_name": "leetcode_binary_tree",
+  "project_name": "leetcode-binary-tree",
+  "version": "0.0.0"
+}
