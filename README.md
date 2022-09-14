@@ -71,3 +71,7 @@ This project was generated from [@cjolowicz]'s [Hypermodern Python Cookiecutter]
 [license]: https://github.com/bsamadi/leetcode-binary-tree/blob/main/LICENSE
 [contributor guide]: https://github.com/bsamadi/leetcode-binary-tree/blob/main/CONTRIBUTING.md
 [command-line reference]: https://leetcode-binary-tree.readthedocs.io/en/latest/usage.html
+
+## References
+
+- [Tree Deserializer and Visualizer for Python](https://leetcode.com/problems/recover-binary-search-tree/discuss/32539/Tree-Deserializer-and-Visualizer-for-Python)
